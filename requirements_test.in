@@ -1,0 +1,6 @@
+scikit-learn>=1.5.2
+nltk>=3.9.1
+transformers>=4.46.2
+bert-score>=0.3.13
+torch>=2.5.1
+rouge-score
